@@ -1,5 +1,5 @@
 {
-    "name": "fadion/maneuver",
+    "name": "xtcat/maneuver",
     "description": "Easily deploy Laravel projects via FTP or SFTP, using Git for versioning.",
     "license": "MIT",
     "keywords": ["laravel", "deployment", "git", "ftp", "ssh"],
@@ -27,6 +27,5 @@
         "psr-0": {
             "Fadion\\Maneuver": "src/"
         }
-    },
-    "minimum-stability": "stable"
+    }
 }
