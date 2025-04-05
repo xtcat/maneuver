@@ -21,9 +21,9 @@
     ],
     "require": {
         "php": "^8.2 || ^8.3",
-        "illuminate/support": "9.*",
-        "illuminate/console": "9.*",
-        "illuminate/config": "9.*",
+        "illuminate/support": "10.*",
+        "illuminate/console": "10.*",
+        "illuminate/config": "10.*",
         "banago/bridge": "~1.0.8",
         "jakeasmith/http_build_url": "~0.1.2"
     },

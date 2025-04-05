@@ -153,7 +153,7 @@ class Git {
             return $this->command('ls-files');
         }
         
-        return $this->command("diff --name-status --no-renames {$revision}... {$this->revision}");
+        return $this->command("diff --name-status --no-renames {$revision} {$this->revision}");
     }
 
     /**
